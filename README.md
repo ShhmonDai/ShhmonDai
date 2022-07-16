@@ -7,14 +7,17 @@
   <a href="https://instagram.com/shh.mon">Instagram</a>
 </p>  
 
-### A New York City based fullstack Software Developer
+&nbsp;
+
+
+### A New York City based Fullstack Software Developer
 
 Pronounced: 'Shh-mohn' 'Poh-znieh-vskii'  
 Well, not exactly but close enough to that!  
 
 As a developer I enjoy the entire process of bringing products to life. Starting from scratch with just an idea, wireframing, designing databases, coming up with comfortable plus efficient UI/UX and the whole coding process to grow the idea into a finished working product that all people involved with it's creation can feel proud of.
 
-My background in art and design helps me stay creative and on top of the Front-end practices while strong technical curiosity pushes me towards continuously learning the proper Back-end tools and implementations. 
+My background in art and design helps me stay creative and on top of the front-end practices while strong technical curiosity pushes me towards continuously learning the proper back-end tools and implementations. 
 
 &nbsp;  
 
