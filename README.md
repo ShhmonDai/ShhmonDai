@@ -1,6 +1,12 @@
 ![Header image](./img/Header.png)
 
-## Hello there! I'm Szymon Pozniewski,
+<h1 align="center"> Hello there! I'm Szymon Pozniewski </h1>
+<p align="center">
+  <a href="https://www.shhmon.com">Website</a> •
+  <a href="https://linkedin.com">Linkedin</a> •
+  <a href="https://instagram.com/shh.mon">Instagram</a>
+</p>  
+
 ### A New York City based fullstack Software Developer
 
 Pronounced: 'Shh-mohn' 'Poh-znieh-vskii'  
@@ -37,8 +43,8 @@ And other tools and technologies such as: Bootstrap, Handlebars.JS, Jquery, JWT,
 
 <div align="center"> 
 
-[![website](./img/globe-light.svg)](https://shhmon.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://shhmon.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.shhmon.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.shhmon.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com#gh-dark-mode-only)
