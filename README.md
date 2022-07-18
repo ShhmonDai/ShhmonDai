@@ -21,7 +21,11 @@ My background in art and design helps me stay creative and on top of the front-e
 
 &nbsp;  
 
-<h2 align="center"> I mainly work with </h2>
+🌱 Currently I am focusing on improving my Java, Javascript and Express.JS knowledge
+
+&nbsp;  
+
+<h2 align="center"> I mainly work with: </h2>
 
 <div align="center"> 
 
@@ -31,7 +35,7 @@ My background in art and design helps me stay creative and on top of the front-e
 
 &nbsp;  
 
-<h2 align="center"> Also used in the past </h2>
+<h2 align="center"> Plus have past experience with: </h2>
 
 <div align="center"> 
 
