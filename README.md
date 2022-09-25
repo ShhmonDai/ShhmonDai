@@ -53,8 +53,8 @@ And other tools and technologies such as: Bootstrap, Handlebars.JS, Jquery, JWT,
 [![website](./img/globe-light.svg)](https://www.shhmon.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.shhmon.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/shhmon#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/shhmon#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://instagram.com/shh.mon#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/shh.mon#gh-dark-mode-only)
