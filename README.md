@@ -3,7 +3,7 @@
 <h1 align="center"> Hello there! I'm Szymon Pozniewski </h1>
 <p align="center">
   <a href="https://www.shhmon.com">Website</a> •
-  <a href="https://linkedin.com">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/shhmon/">Linkedin</a> •
   <a href="https://instagram.com/shh.mon">Instagram</a>
 </p>  
 
