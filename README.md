@@ -3,6 +3,7 @@
 <h1 align="center"> Hello there! I'm Szymon Pozniewski </h1>
 <p align="center">
   <a href="https://www.shhmon.com">Website</a> •
+  <a href="https://www.shhmon.blog">Blog</a> •
   <a href="https://www.linkedin.com/in/shhmon/">Linkedin</a> •
   <a href="https://instagram.com/shh.mon">Instagram</a>
 </p>  
@@ -21,7 +22,7 @@ My background in art and design helps me stay creative and on top of the front-e
 
 &nbsp;  
 
-🌱 Currently I am focusing on improving my Java, Javascript and Express.JS knowledge
+🌱 Currently I am focusing on improving my backend and server hosting knowledge
 
 &nbsp;  
 
