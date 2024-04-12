@@ -22,7 +22,7 @@ My background in art and design helps me stay creative and on top of the front-e
 
 &nbsp;  
 
-🌱 Currently I am focusing on improving my backend and server hosting knowledge
+🌱 Currently I am focusing on improving my java and backend knowledge
 
 &nbsp;  
 
