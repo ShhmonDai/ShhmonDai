@@ -16,15 +16,11 @@
 Pronounced: 'Shh-mohn' 'Poh-znieh-vskii'  
 Well, not exactly but close enough to that!  
 
-As a developer I enjoy the entire process of bringing products to life. Starting from scratch with just an idea, wireframing, designing databases, coming up with comfortable plus efficient UI/UX and the whole coding process to grow the idea into a finished working product that all people involved with it's creation can feel proud of.
-
-My background in art and design helps me stay creative and on top of the front-end practices while strong technical curiosity pushes me towards continuously learning the proper back-end tools and implementations. 
-
-&nbsp;  
-
-🌱 Currently I am focusing on improving my java and backend knowledge
+Hi, I'm a software and web developer with a unique blend of creative and hands-on experience. &nbsp;  
+My diverse history, ranging from carpentry and construction, painting and illustration to being a certified personal trainer, has shaped my problem-solving skills and ability to think outside the box, making me not just a developer, but a creator who builds with purpose. 
 
 &nbsp;  
+
 
 <div align="center"> 
   
