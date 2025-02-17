@@ -10,14 +10,16 @@
 
 &nbsp;
 
+<div align="center"> 
+<h3>A New York City based Fullstack Software Developer</h3>
 
-### A New York City based Fullstack Software Developer
+Pronounced: 'Shh-mohn', or at least close enough to that 
+</div>
+&nbsp;  
 
-Pronounced: 'Shh-mohn' 'Poh-znieh-vskii'  
-Well, not exactly but close enough to that!  
-
-Hi, I'm a software and web developer with a unique blend of creative and hands-on experience. &nbsp;  
-My diverse history, ranging from carpentry and construction, painting and illustration to being a certified personal trainer, has shaped my problem-solving skills and ability to think outside the box, making me not just a developer, but a creator who builds with purpose. 
+"Szymon is a software and web developer with a unique blend of creative and hands-on experience. &nbsp;  
+His diverse history, ranging from carpentry and construction, painting and illustration to being a certified personal trainer, has shaped his problem-solving skills and ability to think outside the box, making him not just a developer, but a creator who builds with purpose. " &nbsp;  
+<div align="right"> -ChatGPT </div>
 
 &nbsp;  
 
