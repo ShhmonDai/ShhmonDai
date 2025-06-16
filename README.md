@@ -1,4 +1,4 @@
-![Header image](./img/Header.png)
+
 
 <h1 align="center"> Hello there! I'm Szymon Pozniewski </h1>
 <p align="center">
