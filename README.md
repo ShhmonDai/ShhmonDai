@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello there! I'm Szymon Pozniewski </h1>
+<h1 align="center"> Hello there! I'm Szymon Pozniewski Kleino </h1>
 <p align="center">
   <a href="https://www.shhmon.com">Website</a> •
   <a href="https://www.shhmon.blog">Blog</a> •
@@ -13,15 +13,10 @@
 <div align="center"> 
 <h3>A New York City based Fullstack Software Developer</h3>
 
-Pronounced: 'Shh-mohn', or at least close enough to that 
+Pronounced: 'Shh-mohn', or just call me Simon.
 </div>
 &nbsp;  
 
-"Szymon is a software and web developer with a unique blend of creative and hands-on experience. &nbsp;  
-His diverse history, ranging from carpentry and construction, painting and illustration to being a certified personal trainer, has shaped his problem-solving skills and ability to think outside the box, making him not just a developer, but a creator who builds with purpose. " &nbsp;  
-<div align="right"> -ChatGPT </div>
-
-&nbsp;  
 
 
 <div align="center"> 
